@@ -3,4 +3,4 @@ git clone +库网址    下载代码
 git status      查看本地git仓库状态
 git add        添加本地到下一次的commit中
 git commit 提交本次commit到本地仓库中   （ps：代码具体写为：git commit -m"文件名"）
-git push      提交本地仓库的commit lity到gitub的远程仓库中
+git push  origin master    提交本地仓库的commit lity到gitub的远程仓库中
